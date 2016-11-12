@@ -1,0 +1,16 @@
+{
+  "name": "emailchecker",
+  "version": "1.0.0",
+  "description": "email checker verifies if email exists",
+  "main": "email.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saeed",
+  "license": "ISC",
+  "dependencies": {
+        "express": "~4.0.0",
+        "mongoose": "~3.6.13",
+        "body-parser": "~1.0.1"
+    }
+}
